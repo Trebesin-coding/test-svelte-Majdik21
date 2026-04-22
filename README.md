@@ -31,4 +31,9 @@ CSS není potřeba upravovat
 
 Nápověda pro syntax props: `let { ukazka } = $props()`
 
-### Počet bodu: ?/100
+### Počet bodu: 80/100
+## Hodnocení:
+
+Nefunguej přičítání, protože nepřidáváte ke shared.pocitadlo, ale jen k pocitadlo. Počítadlo je pouze key v dictionary shared, musíte zmínit tedy také název dictionary
+Chybí import heading
+
